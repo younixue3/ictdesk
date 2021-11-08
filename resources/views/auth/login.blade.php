@@ -35,12 +35,6 @@
                 <button class="bg-indigo-500 text-xl text-white text-center rounded-md shadow-md w-full px-5 py-1" type="submit"><span class="align-text-top">Sign in</span></button>
                 <button class="text-xl text-indigo-500 text-center rounded-md shadow-md border border-gray-100 w-full px-5 py-1"><span class="align-text-top">Sign up</span></button>
             </div>
-            <div class="mt-10 pt-3 border-t-2 space-x-2">
-                <h1 class="text-gray-500 mb-2">login with</h1>
-                <button class="bg-blue-700 focus:bg-blue-800 transition duration-150 text-white text-xl text-center rounded-full shadow-md w-8 h-8 px-1 py-0.5 pt-1"><i class="fab fa-facebook"></i></button>
-                <button class="bg-red-600 focus:bg-red-600 transition duration-150 text-white text-xl text-center rounded-full shadow-md w-8 h-8 px-1 py-0.5 pt-1"><i class="fab fa-google"></i></button>
-                <button class="bg-blue-500 focus:bg-blue-600 transition duration-150 text-white text-xl text-center rounded-full shadow-md w-8 h-8 pt-0.5"><i class="fab fa-twitter"></i></button>
-            </div>
         </div>
     </form>
 
